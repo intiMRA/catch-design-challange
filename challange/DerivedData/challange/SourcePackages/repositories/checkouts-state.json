@@ -1,0 +1,11 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/globulus/swiftui-pull-to-refresh.git" : {
+        "repositoryURL" : "https://github.com/globulus/swiftui-pull-to-refresh.git",
+        "subpath" : "swiftui-pull-to-refresh-fddfbe57"
+      }
+    }
+  },
+  "version" : 1
+}

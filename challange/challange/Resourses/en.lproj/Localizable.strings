@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  challange
+
+  Created by Inti Albuquerque on 21/06/22.
+  
+*/
+
+"Invalid.URL.Title" = "Invalid URL";
+"Invalid.URL.Message" = "Please enter a valid URL";
+"No.Data.Error.Title" = "Could Not Load Data";
+"No.Data.Error.Message" = "The data could not be loaded, please try again later";
